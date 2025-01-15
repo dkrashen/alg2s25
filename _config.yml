@@ -1,0 +1,22 @@
+testing: false
+
+# Site settings
+title: "Graduate Algebra, Second Semester"
+page_title: "Graduate Algebra 2"
+course_title: "UPenn MATH 6030, Spring 2025."
+description: ""
+instructor: "Danny Krashen"
+email: "daniel.krashen+alg2@gmail.com"
+office: "DRL 3E6"
+office_hours: "Fri 10-11am"
+lecture_schedule: "Mon/Wed 10:15-11:45 CHEM109"
+
+baseurl: "/alg2s25"
+url: "http://dkrashen.github.io"
+
+# url: "localhost:4000"
+# url: "http://math.dkrashen.org"
+
+# Build settings
+markdown: kramdown
+permalink: pretty

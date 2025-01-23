@@ -1,3 +1,6 @@
 - title: "Lecture 1 (1/15/2025)"
   description: "Introductions, polynomials, PIDs and division"
   filename: "lecture1.pdf"
+- title: "Lecture 2 (1/22/2025)"
+  description: "Localization and unique factorization domains"
+  filename: "lecture2.pdf"

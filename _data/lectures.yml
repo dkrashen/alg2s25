@@ -4,3 +4,6 @@
 - title: "Lecture 2 (1/22/2025)"
   description: "Localization and unique factorization domains"
   filename: "lecture2.pdf"
+- title: "Lecture 3 (1/27/2025)"
+  description: "Polynomials over UFDs are UFDs, field extensions"
+  filename: "lecture3.pdf"

@@ -7,3 +7,6 @@
 - title: "Lecture 3 (1/27/2025)"
   description: "Polynomials over UFDs are UFDs, field extensions"
   filename: "lecture3.pdf"
+- title: "Lecture 4 (1/29/2025)"
+  description: "More on algebraic extensions, existence of algebraic closure"
+  filename: "lecture4.pdf"

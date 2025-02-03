@@ -10,3 +10,6 @@
 - title: "Lecture 4 (1/29/2025)"
   description: "More on algebraic extensions, existence of algebraic closure"
   filename: "lecture4.pdf"
+- title: "Lecture 5 (2/3/2025)"
+  description: "Galois correspondences, normal extensions"
+  filename: "lecture5.pdf"

@@ -6,6 +6,9 @@ layout: default
 <div class="row well well-sm">
 	<div class="col-md-7">
 	  <b>{{l.title}}</b>: {{l.description}}
+    {% if l.details %}
+        <br /><p>{{ l.details }}</p>
+    {% endif %}
 	</div>
 	<div class="col-md-3">
     {% if l.filename %}

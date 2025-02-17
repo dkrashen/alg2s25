@@ -23,3 +23,6 @@
   description: "Transcendental extensions, linear disjointness"
   details: "<br / ><b>Highlights</b>: Isaacs Thm 19.4, Jacobson (BAII) II.8.7, Linear disjointness from Jacobson (BAII) II.8.15, simple transcendental extensions are totally transcendental (Isaacs Cor 17.8)"
   filename: "lecture8.pdf"
+- title: "Lecture 9 (2/17/2025)"
+  description: "Separable and inseparable closures, more on linear disjointness"
+  filename: "lecture9.pdf"

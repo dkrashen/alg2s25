@@ -26,7 +26,7 @@
 - title: "Lecture 9 (2/17/2025)"
   description: "Separable and inseparable closures, more on linear disjointness"
   filename: "lecture9.pdf"
-  details: "<br / >For another reference on tensor products, we Jacobson's Basic Algebra II, 3.7"
+  details: "<br / >For another reference on tensor products, see Jacobson's Basic Algebra II, 3.7"
 - title: "Lecture 10 (2/19/2025)"
   description: "Galois descent"
   filename: "lecture10.pdf"

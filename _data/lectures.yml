@@ -51,3 +51,6 @@
 - title: "Lecture 17 (3/26/2025)"
   description: "Krull's principal ideal theorem and the generalized Cayley-Hamilton Theorem / Nakayama Lemma"
   filename: "lecture17.pdf"
+- title: "Lecture 18 (3/31/2025)"
+  description: "Cayley-Hamilton-Nakayama continued, integral extensions"
+  filename: "lecture18.pdf"

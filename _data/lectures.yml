@@ -54,3 +54,6 @@
 - title: "Lecture 18 (3/31/2025)"
   description: "Cayley-Hamilton-Nakayama continued, integral extensions"
   filename: "lecture18.pdf"
+- title: "Lecture 19 (4/1/2025)"
+  description: "Local rings, going up, and first steps to transcendence"
+  filename: "lecture19.pdf"

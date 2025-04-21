@@ -69,3 +69,6 @@
 - title: "Lecture 23 (4/16/2025)"
   description: "Some comments about Hopf algebras. Dedekind domains, fin. A few words about symmetric and exterior algebras."
   filename: "lecture23.pdf"
+- title: "Lecture 24 (4/21/2025)"
+  description: "Tensor algebras, symmetric algebras, exterior algebras."
+  filename: "lecture24.pdf"
